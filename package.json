@@ -1,0 +1,16 @@
+{
+  "name": "telephone-number-validator",
+  "version": "1.0.0",
+  "description": "telephone number validator algorithm for freeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/test.js",
+    "try": "node debug.js"
+  },
+  "keywords": [
+    "javascript",
+    "freeCodeCamp"
+  ],
+  "author": "Jesus Ordosgoitty",
+  "license": "MIT"
+}
